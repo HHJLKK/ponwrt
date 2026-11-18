@@ -35,6 +35,7 @@ platform_check_image() {
 	gemtek,xg2010g|\
 	fiberhome,an4475-g2|\
 	fiberhome,hg5382a|\
+	fiberhome,hg5582a|\
 	fiberhome,hg5585f-ct|\
 	fiberhome,hg5585f-cu|\
 	unionman,ung00a|\
@@ -63,6 +64,7 @@ platform_do_upgrade() {
 		gemtek,xg2010g|\
 		fiberhome,an4475-g2|\
 		fiberhome,hg5382a|\
+		fiberhome,hg5582a|\
 		fiberhome,hg5585f-ct|\
 		fiberhome,hg5585f-cu|\
 		unionman,ung00a|\

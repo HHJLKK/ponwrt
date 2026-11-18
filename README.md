@@ -20,6 +20,7 @@ The authors and contributors are not responsible for device damage, network serv
 | --- | --- | --- | --- |
 | AN7581 | FiberHome AN4475-G2 | `fiberhome_an4475-g2` | `factory` (2 MiB AN4-2MiB) |
 | AN7581 | FiberHome HG5382A | `fiberhome_hg5382a` | `factory` |
+| AN7581 | FiberHome HG5582A | `fiberhome_hg5582a` | `factory` |
 | AN7581 | FiberHome HG5585F CT | `fiberhome_hg5585f-ct` | `factory` |
 | AN7581 | FiberHome HG5585F CU | `fiberhome_hg5585f-cu` | `factory` |
 | AN7581 | Gemtek XG2010G | `gemtek_xg2010g` | `dsd` |
